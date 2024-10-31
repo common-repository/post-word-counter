@@ -1,0 +1,116 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Word Counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-20 04:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1\n"
+"X-Domain: pwc"
+
+#. Description of the plugin
+msgid "An intuitive and attractive system to show the statistics about post."
+msgstr ""
+
+#: admin/Settings.php:302
+msgid "Beginning of post"
+msgstr ""
+
+#: admin/Settings.php:145
+msgid "Character Count"
+msgstr ""
+
+#: admin/Settings.php:189
+msgid "Character counter postfix"
+msgstr ""
+
+#: admin/Settings.php:167
+msgid "Character counter prefix"
+msgstr ""
+
+#: admin/Settings.php:173 admin/Settings.php:182 public/Frontend.php:150
+msgid "Characters:"
+msgstr ""
+
+#: admin/Settings.php:16
+msgid "Display Location"
+msgstr ""
+
+#: admin/Settings.php:313
+msgid "Display Location value must me Beginning the post or End of post"
+msgstr ""
+
+#: admin/Settings.php:303
+msgid "End of post"
+msgstr ""
+
+#: admin/Settings.php:37
+msgid "Heading Text"
+msgstr ""
+
+#: admin/Settings.php:43 admin/Settings.php:52 public/Frontend.php:113
+msgid "Information"
+msgstr ""
+
+#: admin/Settings.php:351
+msgid "Per minute reading time must be 1 or more."
+msgstr ""
+
+#. Name of the plugin
+#: admin/Submenu.php:8 admin/Submenu.php:9
+msgid "Post Word Counter"
+msgstr ""
+
+#: admin/Submenu.php:21
+msgid "Post Word Counter Settings"
+msgstr ""
+
+#: admin/Settings.php:211
+msgid "Read Time"
+msgstr ""
+
+#: admin/Settings.php:233
+msgid "Read time per minute"
+msgstr ""
+
+#: admin/Settings.php:254 admin/Settings.php:276
+msgid "Reading time prefix"
+msgstr ""
+
+#: admin/Settings.php:260 admin/Settings.php:269 public/Frontend.php:158
+msgid "Reading time:"
+msgstr ""
+
+#: admin/Settings.php:334
+msgid ""
+"These words statistics will not include in word counter statistics. Use line "
+"break for multiple word."
+msgstr ""
+
+#: admin/Settings.php:59
+msgid "Word Count"
+msgstr ""
+
+#: admin/Settings.php:123
+msgid "Word Counter Postfix"
+msgstr ""
+
+#: admin/Settings.php:101
+msgid "Word Counter Prefix"
+msgstr ""
+
+#: admin/Settings.php:80
+msgid "Word Filter"
+msgstr ""
+
+#: admin/Settings.php:107 admin/Settings.php:116 public/Frontend.php:125
+msgid "Words:"
+msgstr ""

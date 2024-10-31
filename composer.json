@@ -1,0 +1,15 @@
+{
+    "name": "mrinal013/post-word-counter",
+    "description": "Post wourd counter WordPress Plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PostWordCounter\\Includes\\": "includes/",
+            "PostWordCounter\\Admin\\": "admin/",
+            "PostWordCounter\\Frontend\\": "public/"
+        }
+    }
+}
